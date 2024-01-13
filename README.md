@@ -19,3 +19,5 @@ The Azure Machine Learning Designer was also used to create and deploy some of t
 - Pipeline development and implementation of models like Neural Networks and SVM.
 - Model evaluation using key metrics; the Neural Network showed superior performance.
 - Configuration of an inference pipeline and deployment of the model as a web service for real-time predictions.
+
+![Azure Pipeline](Azure-Implementation/Azure-Inference-Pipeline-2.png)

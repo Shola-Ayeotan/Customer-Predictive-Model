@@ -2,7 +2,7 @@
 # Predicting Customer Outcomes using Classification Algorithms and Azure ML Studio
 
 ## Overview
-This project used ensemble machine learning algorithms to predict customer subscriptions to financial products offered by a Portuguese Bank. The goal was to conduct a comprehensive analysis from end to end, extracting valuable insights into customer behavior and preferences.
+This project used ensemble machine learning algorithms to predict customer subscriptions to financial products offered by a Bank. The goal was to conduct a comprehensive analysis from end to end, extracting valuable insights into customer behaviour and preferences.
 
 ## Dataset
 The dataset used in this study contained information gathered from a marketing campaign conducted by a Portuguese bank between May 2008 and November 2010. It comprises 40,000 instances with 20 input features relating to customer demographics, engagement, and marketing outcomes.
